@@ -54,3 +54,5 @@ Welcome to the GitHub repository for the labs of the Artificial Intelligence cou
 ## Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/ai-course-labs/issues). We appreciate your feedback!
+
+Happy coding and exploring the exciting world of Artificial Intelligence!
