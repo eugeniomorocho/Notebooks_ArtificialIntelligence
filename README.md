@@ -60,9 +60,11 @@ Happy coding and exploring the exciting world of Artificial Intelligence!
 
 <br>
 <br>
-<div style="display: flex; justify-content: space-between;">
-    <img src="yt.png" alt="drawing" style="width: 30%;" />
-    <img src="ecmc.png" alt="drawing" style="width: 30%;" />
-    <img src="deeparc.png" alt="drawing" style="width: 30%;" />
-</div>
+# Image Gallery
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="yt.png" alt="drawing" style="width: 200px;" />
+    <img src="ecmc.png" alt="drawing" style="width: 200px;" />
+    <img src="deeparc.png" alt="drawing" style="width: 200px;" />
+</div
 
