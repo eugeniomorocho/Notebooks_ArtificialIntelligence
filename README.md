@@ -60,11 +60,10 @@ Happy coding and exploring the exciting world of Artificial Intelligence!
 
 <br>
 <br>
-# Image Gallery
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
     <img src="yt.png" alt="drawing" style="width: 200px;" />
     <img src="ecmc.png" alt="drawing" style="width: 200px;" />
     <img src="deeparc.png" alt="drawing" style="width: 200px;" />
-</div
+</div>
+
 
