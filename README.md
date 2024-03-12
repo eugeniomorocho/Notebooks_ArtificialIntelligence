@@ -7,40 +7,38 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 1. [Unit 1: Introduction to Python](week1-2/)
    - **Objective**: Install Python, an IDE, and create a virtual environment. Familiarize yourself with Python basics such as lists, functions, packages, and Numpy.
 
-2. [Unit 2: Logistic Regression and Classification](week3-4/)
+2. [Unit 2: Supervised Learning with scikit-learn](week3-4/)
    - **Objective**: Understand logistic regression and delve into binary classification problems.
 
-3. [Unit 3: Artificial Neural Networks](week5-6/)
+3. [Unit 3: Linear Classifiers on Python](week5-6/)
    - **Objective**: Explore the basics of neural networks and implement a simple feedforward neural network.
 
-4. [Unit 4: Supervised Learning](week7-8/)
+4. [Unit 4: Unsupervised Learning on Python](week7-8/)
    - **Objective**: Gain hands-on experience with various supervised learning algorithms like decision trees, support vector machines, and ensemble methods.
 
-5. [Unit 5: Unsupervised Learning](week9-10/)
+5. [Unit 5: Introduction to Deep Learning with Keras](week9-10/)
    - **Objective**: Dive into unsupervised learning techniques, including clustering and dimensionality reduction.
 
-6. [Unit 6: Reinforcement Learning](week11-12/)
+6. [Unit 6: Intermediate Deep Learning with PyTorch](week11-12/)
    - **Objective**: Learn the basics of reinforcement learning and implement a simple reinforcement learning agent.
 
-7. [Unit 7: Deep Learning and Computer Vision](week13-14/)
+7. [Unit 7: Generative AI and LLMs](week13-14/)
    - **Objective**: Understand the principles of deep learning and apply them to computer vision tasks.
 
-8. [Unit 8: MLOps](week15/)
+8. [Unit 8: Prompt Engineering, Ethics, and Privacy in AI](week15/)
    - **Objective**: Explore the integration of machine learning models into the software development lifecycle using MLOps practices.
 
-9. [Unit 9: Business Intelligence, Ethics, and Regulations](week16/)
-   - **Objective**: Engage in a podcast-style discussion on the ethical considerations and regulatory aspects of artificial intelligence in business intelligence.
 
 ## Getting Started
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ai-course-labs.git
+   git clone https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence.git
 
-2. Navigate to the specific week's directory:
+2. Navigate to the specific Notebook's directory:
    ```bash
-   cd ai-course-labs/weekX/
+   cd Notebooks_ArtificialIntelligence/NOTEBOOK_x/
    
 3. Follow the instructions in the respective `README.md` file for each week's lab.
 
@@ -48,11 +46,16 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 ## Requirements
 
 - Python 3.x
-- Visual Studio Code
+- IDE (Visual Studio Code, PyCharm, Spider, Jupyter Notebook, Google Colab, Kaggle Notebook, Amazon Sage Maker, etc.)
 - Additional dependencies specified in each week's lab instructions
 
 ## Support and Feedback
 
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/ai-course-labs/issues). We appreciate your feedback!
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/issues). We appreciate your feedback!
 
 Happy coding and exploring the exciting world of Artificial Intelligence!
+
+
+***Manuel Eugenio Morocho-Cayamcela, PhD.***
+
+![](http://url/to/img.png)
