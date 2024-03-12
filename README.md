@@ -58,10 +58,9 @@ Happy coding and exploring the exciting world of Artificial Intelligence!
 
 ***Manuel Eugenio Morocho-Cayamcela, PhD.***
 
-<br/>
-<br/>
-<div id="content">
-   <div><img src="yt.png" alt="drawing" width="200"/></div>
-   <div><img src="ecmc.png" alt="drawing" width="200"/></div>
-   <div><img src="deeparc.png" alt="drawing" width="200"/></div>
+<div style="display: flex; justify-content: space-between; max-width: 100%;">
+    <img src="yt.png" alt="drawing" width="200"/>
+    <img src="ecmc.png" alt="drawing" width="200"/>
+    <img src="deeparc.png" alt="drawing" width="200"/>
 </div>
+
