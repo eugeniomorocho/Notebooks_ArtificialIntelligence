@@ -4,13 +4,17 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 
 ## Table of Contents
 
-### 1. Classification
+1. [Classification: k-Nearest Neighbors on IRIS dataset](k-Nearest_Neighbors.ipynb)
+   - **Objective**: This project focuses on using the K-Nearest Neighbors (KNN) supervised learning algorithm to classify Iris flowers based on their sepal and petal measurements. It employs the Iris Dataset, which contains 150 samples of Iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The project involves various stages including data collection and preparation, exploratory data analysis, data preprocessing, model building using the KNN algorithm, model evaluation, tuning hyperparameters, and visualization of decision boundaries. Throughout the project, Python is used alongside popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. The notebook serves as a comprehensive guide, providing step-by-step instructions and code snippets for implementing KNN classification for Iris flower species recognition. It can be a useful resource for anyone interested in similar data classification projects.
 
-1. [Classification: k-Nearest Neighbors on IRIS dataset (supervised learning with scikit-learn)](k-Nearest_Neighbors.ipynb)
-   - **Objective**: This project focuses on using the K-Nearest Neighbors (KNN) algorithm to classify Iris flowers based on their sepal and petal measurements. It employs the Iris Dataset, which contains 150 samples of Iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The project involves various stages including data collection and preparation, exploratory data analysis, data preprocessing, model building using the KNN algorithm, model evaluation, tuning hyperparameters, and visualization of decision boundaries. Throughout the project, Python is used alongside popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. The notebook serves as a comprehensive guide, providing step-by-step instructions and code snippets for implementing KNN classification for Iris flower species recognition. It can be a useful resource for anyone interested in similar data classification projects..
+2. [Regression: Algorithm on Dataset]
+   - **Objective**: tbd.
 
-2. [Regression: Linear Classifiers on Python]
-   - **Objective**: Explore the basics of neural networks and implement a simple feedforward neural network.
+3. [Logistic Regression: Algorithm on Dataset]
+   - **Objective**: tbd.
+
+4. [Regression: Algorithm on Dataset]
+   - **Objective**: tbd.
 
 ## Getting Started
 
