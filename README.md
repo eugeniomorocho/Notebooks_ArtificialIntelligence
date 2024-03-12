@@ -61,7 +61,7 @@ Happy coding and exploring the exciting world of Artificial Intelligence!
 <br/>
 <br/>
 <div id="content">
-   <img src="yt.png" alt="drawing" width="200"/>
-   <img src="ecmc.png" alt="drawing" width="200"/>
-   <img src="deeparc.png" alt="drawing" width="200"/>
+   <div><img src="yt.png" alt="drawing" width="200"/></div>
+   <div><img src="ecmc.png" alt="drawing" width="200"/></div>
+   <div><img src="deeparc.png" alt="drawing" width="200"/></div>
 </div>
