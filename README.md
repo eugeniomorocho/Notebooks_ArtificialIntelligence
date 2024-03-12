@@ -7,7 +7,7 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 1. [Unit 1: Introduction to Python](week1-2/)
    - **Objective**: Install Python, an IDE, and create a virtual environment. Familiarize yourself with Python basics such as lists, functions, packages, and Numpy.
 
-2. [Unit 2: Supervised Learning with scikit-learn](week3-4/)
+2. [Unit 2: Supervised Learning with scikit-learn](k-Nearest_Neighbors.ipynb)
    - **Objective**: Understand logistic regression and delve into binary classification problems.
 
 3. [Unit 3: Linear Classifiers on Python](week5-6/)
