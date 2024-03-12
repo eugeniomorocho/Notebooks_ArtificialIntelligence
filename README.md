@@ -10,22 +10,22 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 2. [Unit 2: Supervised Learning with scikit-learn](k-Nearest_Neighbors.ipynb)
    - **Objective**: Understand logistic regression and delve into binary classification problems.
 
-3. [Unit 3: Linear Classifiers on Python](week5-6/)
+3. [Unit 3: Linear Classifiers on Python]
    - **Objective**: Explore the basics of neural networks and implement a simple feedforward neural network.
 
-4. [Unit 4: Unsupervised Learning on Python](week7-8/)
+4. [Unit 4: Unsupervised Learning on Python]
    - **Objective**: Gain hands-on experience with various supervised learning algorithms like decision trees, support vector machines, and ensemble methods.
 
-5. [Unit 5: Introduction to Deep Learning with Keras](week9-10/)
+5. [Unit 5: Introduction to Deep Learning with Keras]
    - **Objective**: Dive into unsupervised learning techniques, including clustering and dimensionality reduction.
 
-6. [Unit 6: Intermediate Deep Learning with PyTorch](week11-12/)
+6. [Unit 6: Intermediate Deep Learning with PyTorch]
    - **Objective**: Learn the basics of reinforcement learning and implement a simple reinforcement learning agent.
 
-7. [Unit 7: Generative AI and LLMs](week13-14/)
+7. [Unit 7: Generative AI and LLMs]
    - **Objective**: Understand the principles of deep learning and apply them to computer vision tasks.
 
-8. [Unit 8: Prompt Engineering, Ethics, and Privacy in AI](week15/)
+8. [Unit 8: Prompt Engineering, Ethics, and Privacy in AI]
    - **Objective**: Explore the integration of machine learning models into the software development lifecycle using MLOps practices.
 
 
