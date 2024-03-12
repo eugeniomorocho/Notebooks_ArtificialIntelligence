@@ -4,30 +4,15 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 
 ## Table of Contents
 
-1. [Unit 1: Introduction to Python]
-   - **Objective**: Install Python, an IDE, and create a virtual environment. Familiarize yourself with Python basics such as lists, functions, packages, and Numpy.
+1. [Classification: Classifying IRIS flowers with k-Nearest Neighbors (supervised Learning with scikit-learn)](k-Nearest_Neighbors.ipynb)
+   - **Objective**: This project focuses on using the K-Nearest Neighbors (KNN) algorithm to classify Iris flowers based on their sepal and petal measurements. It employs the Iris Dataset, which contains 150 samples of Iris flowers, each with four features: sepal length, sepal width, petal length, and petal width.
 
-2. [Unit 2: Supervised Learning with scikit-learn](k-Nearest_Neighbors.ipynb)
-   - **Objective**: Understand logistic regression and delve into binary classification problems.
+The project involves various stages including data collection and preparation, exploratory data analysis, data preprocessing, model building using the KNN algorithm, model evaluation, tuning hyperparameters, and visualization of decision boundaries.
 
-3. [Unit 3: Linear Classifiers on Python]
+Throughout the project, Python is used alongside popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. The notebook serves as a comprehensive guide, providing step-by-step instructions and code snippets for implementing KNN classification for Iris flower species recognition. It can be a useful resource for anyone interested in similar data classification projects..
+
+2. [Regression: Linear Classifiers on Python]
    - **Objective**: Explore the basics of neural networks and implement a simple feedforward neural network.
-
-4. [Unit 4: Unsupervised Learning on Python]
-   - **Objective**: Gain hands-on experience with various supervised learning algorithms like decision trees, support vector machines, and ensemble methods.
-
-5. [Unit 5: Introduction to Deep Learning with Keras]
-   - **Objective**: Dive into unsupervised learning techniques, including clustering and dimensionality reduction.
-
-6. [Unit 6: Intermediate Deep Learning with PyTorch]
-   - **Objective**: Learn the basics of reinforcement learning and implement a simple reinforcement learning agent.
-
-7. [Unit 7: Generative AI and LLMs]
-   - **Objective**: Understand the principles of deep learning and apply them to computer vision tasks.
-
-8. [Unit 8: Prompt Engineering, Ethics, and Privacy in AI]
-   - **Objective**: Explore the integration of machine learning models into the software development lifecycle using MLOps practices.
-
 
 ## Getting Started
 
