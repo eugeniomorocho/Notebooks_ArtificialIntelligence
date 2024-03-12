@@ -58,4 +58,6 @@ Happy coding and exploring the exciting world of Artificial Intelligence!
 
 ***Manuel Eugenio Morocho-Cayamcela, PhD.***
 
-<img src="yt.png" alt="drawing" width="200"/><img src="ecmc.png" alt="drawing" width="200"/><img src="deeparc.png" alt="drawing" width="200"/>
+<br/>
+<br/>
+<img src="yt.png" alt="drawing" width="200"/>     <img src="ecmc.png" alt="drawing" width="200"/>     <img src="deeparc.png" alt="drawing" width="200"/>
