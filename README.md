@@ -60,4 +60,4 @@ Happy coding and exploring the exciting world of Artificial Intelligence!
 
 <br/>
 <br/>
-<img src="yt.png" alt="drawing" width="200"/>&nbsp;<img src="ecmc.png" alt="drawing" width="200"/>&nbsp;<img src="deeparc.png" alt="drawing" width="200"/>
+<img src="yt.png" alt="drawing" width="200"/>$~~~$<img src="ecmc.png" alt="drawing" width="200"/><img src="deeparc.png" alt="drawing" width="200" padding-left=10px/>
