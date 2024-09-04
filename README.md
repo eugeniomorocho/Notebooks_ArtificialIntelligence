@@ -16,6 +16,9 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 4. [Support Vector Machines: Algorithm on Dataset]
    - **Objective**: tbd.
 
+5. [Tema]
+
+
 ## Getting Started
 
 1. Clone this repository to your local machine:
