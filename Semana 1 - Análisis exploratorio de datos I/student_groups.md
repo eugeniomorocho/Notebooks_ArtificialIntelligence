@@ -19,7 +19,6 @@
 |---|---|
 |Anthony Salazar (TICS)|Ok|
 
-
 ## **Group 4**
 |Student|Lab 01|
 |---|---|
