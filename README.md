@@ -12,13 +12,19 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
    Button
 
 2. [Linear Regression](Linear Regression)
-   - **Objective**: tbd.
+   - **Objective**
 
 3. [Logistic Regression: Algorithm on Dataset]
    - **Objective**: tbd.
 
 4. [Support Vector Machines: Algorithm on Dataset]
    - **Objective**: tbd.
+
+4. [k-NN - Grouping clients]
+   - **Dataset**
+   - **Notebook**
+   - **Slides**
+   - **Activity**
 
 5. [Tema]
 
