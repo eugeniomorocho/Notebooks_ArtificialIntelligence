@@ -4,14 +4,14 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
 
 ## Table of Contents
 
-0. [Datasets](/Users/eugenio/Documents/Notebooks_ArtificialIntelligence/0 - Datasets) 
+[0. Datasets](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/tree/main/0%20-%20Datasets) 
 
 1. [Exploratory data analysis](1 - Exploratory data analysis (EDA))
    - **Objective**
 
    Button
 
-2. [Regression: Algorithm on Dataset]
+2. [Linear Regression](Linear Regression)
    - **Objective**: tbd.
 
 3. [Logistic Regression: Algorithm on Dataset]
@@ -46,9 +46,6 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
 ## Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/issues). We appreciate your feedback!
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/issues" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" aria-label="Issue eugeniomorocho/Notebooks_ArtificialIntelligence on GitHub">Issue</a>
 
 ``# Happy coding!``
 
