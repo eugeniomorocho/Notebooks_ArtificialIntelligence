@@ -1,11 +1,15 @@
 # Artificial Intelligence Notebooks
 
-Welcome to the GitHub repository for Artificial Intelligence course. This repository is designed for the undergraduate degrees in Information Technology Engineering, Computer Science Engineering, and Mathematics from the School of Mathematical and Computational Sciences at Yachay Tech University. This 16-week course is designed to provide you with hands-on experience and in-depth understanding of fundamental AI topics. The notebooks include both coding exercises and project-based activities, and were created using Python 3 as the preferred language and Visual Studio Code as the integrated development environment (IDE).
+Welcome to the GitHub repository for the Artificial Intelligence course. This repository is designed to provide you with hands-on experience and in-depth understanding of fundamental AI topics. The notebooks include both coding exercises and project-based activities, and were created using Python 3 as the interpreter -programming language-, and Visual Studio Code -VSCode- as the integrated development environment (IDE).
 
 ## Table of Contents
 
-1. [Classification: k-Nearest Neighbors on IRIS Flowers dataset](Classification-KNN_IRIS.ipynb)
-   - **Objective**: This project focuses on using the K-Nearest Neighbors (KNN) supervised learning algorithm to classify Iris flowers based on their sepal and petal measurements. It employs the Iris Dataset, which contains 150 samples of Iris flowers, each with four features: sepal length, sepal width, petal length, and petal width. The project involves various stages including data collection and preparation, exploratory data analysis, data preprocessing, model building using the KNN algorithm, model evaluation, tuning hyperparameters, and visualization of decision boundaries. Throughout the project, Python is used alongside popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. The notebook serves as a comprehensive guide, providing step-by-step instructions and code snippets for implementing KNN classification for Iris flower species recognition. It can be a useful resource for anyone interested in similar data classification projects.
+0. [Datasets](/Users/eugenio/Documents/Notebooks_ArtificialIntelligence/0 - Datasets) 
+
+1. [Exploratory data analysis](1 - Exploratory data analysis (EDA))
+   - **Objective**
+
+   Button
 
 2. [Regression: Algorithm on Dataset]
    - **Objective**: tbd.
@@ -43,11 +47,16 @@ Welcome to the GitHub repository for Artificial Intelligence course. This reposi
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/issues). We appreciate your feedback!
 
-Happy coding and exploring the exciting world of Artificial Intelligence!
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/issues" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" aria-label="Issue eugeniomorocho/Notebooks_ArtificialIntelligence on GitHub">Issue</a>
 
+``# Happy coding!``
+
+
+
+<br>
+<br>
 
 ***Manuel Eugenio Morocho-Cayamcela, PhD.***
 
-<br>
-<br>
 <img src="yt.png" alt="drawing" style="width: 200px;" />
