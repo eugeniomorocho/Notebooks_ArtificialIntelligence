@@ -4,7 +4,38 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
 
 ## Table of Contents
 
-[0. Datasets](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/tree/main/0%20-%20Datasets) 
+### 1. Exploratory data analysis (EDA)
+
+### 2. Data pre-processing
+
+### 3 - Modelling and evaluation
+
+#### 2.1 Supervised learning
+- $k$-nearest neighbours ($k$-NN)
+- Linear regression
+- Logistic regression
+- Support vector machines (SVMs)
+- Artificial neural networks (ANNs)
+
+##### Slides
+##### Notebook
+##### Activity (autogreaded test)
+##### Quiz
+
+
+#### 2.2 Unsupervised learning
+- $k$-means clustering
+
+### 2.3 Time-series analysis
+
+### **3. Data Evaluation**
+
+
+### Datasets
+
+
+
+
 
 1. [Exploratory data analysis](1 - Exploratory data analysis (EDA))
    - **Objective**
@@ -40,20 +71,20 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
    ```bash
    cd Notebooks_ArtificialIntelligence/NOTEBOOK_x/
    
-3. Follow the instructions in the respective `README.md` file for each week's lab.
+3. Follow the instructions in the file for each week's lab.
 
 
 ## Requirements
 
-- Python 3.x
-- IDE (Visual Studio Code, PyCharm, Spider, Jupyter Notebook, Google Colab, Kaggle Notebook, Amazon Sage Maker, etc.)
+- Python 3.x as the main interpreter.
+- An integrated development environment (IDE) (e.g., Visual Studio Code, PyCharm, Spider, Jupyter Notebook, Google Colab, Kaggle Notebook, Amazon Sage Maker, etc.)
 - Additional dependencies specified in each week's lab instructions
 
 ## Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/issues). We appreciate your feedback!
 
-``# Happy coding!``
+### Happy coding!
 
 
 
