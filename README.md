@@ -7,26 +7,38 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
 ### 1. Exploratory data analysis (EDA)
 
 ### 2. Data pre-processing
+- Exploratory data analysis (Titanic dataset)
+- Data standarization, normalization, and scaling (-- dataset)
+- Outlier detection and removal (credit score dataset) 
 
 ### 3 - Modelling and evaluation
+#### 3.1 Unsupervised learning
+- $k$-means clustering (mall customers dataset)
 
-#### 2.1 Supervised learning
-- $k$-nearest neighbours ($k$-NN)
-- Linear regression
-- Logistic regression
-- Support vector machines (SVMs)
-- Artificial neural networks (ANNs)
+#### 3.2 Supervised learning
+- $k$-nearest neighbours ($k$-NN) (iris and penguins dataset)
+- Linear regression (insurance dataset)
+- Logistic regression (-- dataset)
+- Support vector machines (SVMs) (-- dataset)
+- Artificial neural networks (ANNs) with Keras (diabetes dataset)
 
-##### Slides
+### 3.3 Computer Vision
+- Image classification (transfer learning over VGG trained with Imagenet)
+- Drawing a bounding box (OpenCV)
+- Object detection with YOLO (Microsoft COCO dataset)
+
+### 3.3 Large-language models
+- Hugging face (translation, sentiment analysis, text summarization, etc.)
+- Using the OpenAI API (building a chatbot with Streamlit)
+
+##### Slides (how it works?, info taken from the book, mathematics, algorithm)
 ##### Notebook
 ##### Activity (autogreaded test)
 ##### Quiz
-
-
-#### 2.2 Unsupervised learning
-- $k$-means clustering
+##### Deployment (Excel, Python, Azure, AWS, Google Cloud, Heroku, RapidMiner, Tableau, PowerBI, QlikView)
 
 ### 2.3 Time-series analysis
+- Time-series analysis: let's try all the algorithms and create a Streamlit dashboard.
 
 ### **3. Data Evaluation**
 
