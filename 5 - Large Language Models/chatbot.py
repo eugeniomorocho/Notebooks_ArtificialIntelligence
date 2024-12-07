@@ -1,31 +1,35 @@
-import streamlit as st
 from openai import OpenAI
-openai = OpenAI()
+import streamlit as st
 
-# Title of the app
+with st.sidebar:
+    openai_api_key = st.text_input("OpenAI API Key", key="chatbot_api_key", type="password")
+    "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
+    "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
+    "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
+
+# App title and description
 st.title("Chatbot")
-# Subtitle of the app
 st.caption("🚀 A Streamlit chatbot powered by OpenAI")
 
-# chat_message: Display a welcome message when the app is first loaded
-with st.chat_message("user"):
-    st.write("Hello! 👋 I'm a chatbot. How can I help you today?")
+if "messages" not in st.session_state:
+    st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]
 
-# chat_input: Create a text input field for the user to enter their message
-user_message = st.text_input("Type your message here")
+for msg in st.session_state.messages:
+    st.chat_message(msg["role"]).write(msg["content"])
 
-# Check if the user has entered a message
-if user_message:
-    # Display the user message in the chat window
-    with st.chat_message("user"):
-        st.write(user_message)
+if prompt := st.chat_input():
+    if not openai_api_key:
+        st.info("Please add your OpenAI API key to continue.")
+        st.stop()
 
-    # Get the response from the chatbot
-    bot_message = openai.get_response(user_message)
+    client = OpenAI(api_key=openai_api_key)
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    st.chat_message("user").write(prompt)
+    response = client.chat.completions.create(model="gpt-3.5-turbo", messages=st.session_state.messages)
+    msg = response.choices[0].message.content
+    st.session_state.messages.append({"role": "assistant", "content": msg})
+    st.chat_message("assistant").write(msg)
 
-    # Display the chatbot response in the chat window
-    with st.chat_message("bot"):
-        st.write(bot_message)
 
 # HOW TO RUN THE APP
 # Open terminal
