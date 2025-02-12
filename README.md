@@ -1,10 +1,35 @@
 # Artificial Intelligence Notebooks
 
-Welcome to the GitHub repository for the Artificial Intelligence course. This repository is designed to provide you with hands-on experience and in-depth understanding of fundamental AI topics. The notebooks include both coding exercises and project-based activities, and were created using Python 3 as the interpreter -programming language-, and Visual Studio Code -VSCode- as the integrated development environment (IDE).
+Welcome to the GitHub repository for the Artificial Intelligence course. This repository is designed to provide you with hands-on experience and in-depth understanding of fundamental AI topics. The notebooks include both coding exercises and project-based activities, and were created using Python 3 as the interpreter.
 
 ## Table of Contents
+- [Artificial Intelligence Notebooks](#artificial-intelligence-notebooks)
+  - [Table of Contents](#table-of-contents)
+    - [1. Exploratory data analysis (EDA)](#1-exploratory-data-analysis-eda)
+    - [2. Data pre-processing](#2-data-pre-processing)
+    - [3 - Modelling and evaluation](#3---modelling-and-evaluation)
+      - [3.1 Unsupervised learning](#31-unsupervised-learning)
+      - [3.2 Supervised learning](#32-supervised-learning)
+    - [3.3 Computer Vision](#33-computer-vision)
+    - [3.3 Large-language models](#33-large-language-models)
+        - [Slides (how it works?, info taken from the book, mathematics, algorithm)](#slides-how-it-works-info-taken-from-the-book-mathematics-algorithm)
+        - [Notebook](#notebook)
+        - [Activity (autogreaded test)](#activity-autogreaded-test)
+        - [Quiz](#quiz)
+        - [Deployment (Excel, Python, Azure, AWS, Google Cloud, Heroku, RapidMiner, Tableau, PowerBI, QlikView)](#deployment-excel-python-azure-aws-google-cloud-heroku-rapidminer-tableau-powerbi-qlikview)
+    - [2.3 Time-series analysis](#23-time-series-analysis)
+    - [**3. Data Evaluation**](#3-data-evaluation)
+    - [Datasets](#datasets)
+  - [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Support and Feedback](#support-and-feedback)
+    - [Happy coding!](#happy-coding)
+
+___
 
 ### 1. Exploratory data analysis (EDA)
+
+
 
 ### 2. Data pre-processing
 - Exploratory data analysis (Titanic dataset)
@@ -97,8 +122,6 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence/issues). We appreciate your feedback!
 
 ### Happy coding!
-
-
 
 <br>
 <br>
