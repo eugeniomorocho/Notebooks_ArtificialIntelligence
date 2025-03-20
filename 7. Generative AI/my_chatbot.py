@@ -29,6 +29,6 @@ if prompt := st.chat_input():
     st.chat_message("assistant").write(msg)
 
 # HOW TO RUN THE APP
-# Open terminal
+# Open terminal (Open in integrated terminal)
 # Go to the folder where the my_chatbot.py file is located
 # Run the following command: streamlit run my_chatbot.py
