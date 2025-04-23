@@ -4,11 +4,8 @@ import numpy as np
 from PIL import Image
 
 # Cargar el modelo
-@st.cache_resource
-def load_model():
-    return tf.keras.models.load_model('/Users/eugenio/Documents/Notebooks_ArtificialIntelligence/5. Computer Vision/Image classification/modelo_clasificacion_perros_gatos.h5')
-
-model = load_model()
+from keras.models import load_model
+modelo_cargado = load_model('/Users/eugenio/Documents/Notebooks_ArtificialIntelligence/5. Computer Vision/Image classification/modelo_clasificacion_perros_gatos.h5 10-51-15-284.h5')
 
 # Tamaño esperado por el modelo
 IMG_SIZE = (224, 224)  # Ajustar según tu modelo
@@ -32,7 +29,7 @@ if uploaded_file is not None:
     img_array = np.expand_dims(img_array, axis=0)  # Para batch
 
     # Inferencia
-    prediction = model.predict(img_array)
+    prediction = modelo_cargado.predict(img_array)
     predicted_class = CLASSES[np.argmax(prediction)]
 
     st.write(f"**Predicción:** {predicted_class}")
