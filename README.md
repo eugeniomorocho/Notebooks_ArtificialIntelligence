@@ -8,12 +8,14 @@ Welcome to the GitHub repository for the Artificial Intelligence course. This re
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence.git```
+   git clone https://github.com/eugeniomorocho/Notebooks_ArtificialIntelligence.git
+   ```
 
 2. Navigate to the specific Notebook's directory:
 
    ```bash
-   cd Notebooks_ArtificialIntelligence/NOTEBOOK_x/```
+   cd Notebooks_ArtificialIntelligence/NOTEBOOK_x/
+   ```
    
 3. Follow the instructions in the file for each week's lab.
 
